@@ -9,3 +9,8 @@
 
 ##  手算筆記
 ![](./screenshot/note.png)
+
+
+### Reference
+![類神經網路 筆記](https://darren1231.pixnet.net/blog/post/338810666-%E9%A1%9E%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%28backpropagation%29-%E7%AD%86%E8%A8%98)
+![Back-propagation倒傳遞](https://medium.com/ai-academy-taiwan/back-propagation-3946e8ed8c55)
