@@ -6,3 +6,6 @@
 ![](./screenshot/img02.png)
 ![](./screenshot/img03.png)
 ![](./screenshot/img04.png)
+
+##  手算筆記
+![](./screenshot/note.png)
